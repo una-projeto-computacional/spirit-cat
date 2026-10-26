@@ -1,8 +1,9 @@
 import pygame
 
+# Para instalar o Pygame-CE, você pode usar o seguinte comando no terminal:
+# pip install -r requirements.txt
+
 # Esse código é só para ver se o Pygame-CE está instalado corretamente e funcionando.
-
-
 
 # Inicializa o pygame
 pygame.init()
@@ -22,4 +23,3 @@ while rodando:
             rodando = False
 
 pygame.quit()
-
