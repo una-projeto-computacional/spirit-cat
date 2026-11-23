@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
